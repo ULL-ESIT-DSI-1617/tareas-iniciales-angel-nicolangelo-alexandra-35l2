@@ -36,7 +36,7 @@ Casiano Rodríguez León
 * [GitHub](https://github.com/alu0100912005)
 
 ### Despliegue del libro
-* [Despliegue del libro en GitBook]
+* [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/chapter1.md)
 * [Despliegue del libro en gh-pages](https://alu0100912005.gitbooks.io/pasos-iniciales/content/)
 
 ### Enlace del grupo
