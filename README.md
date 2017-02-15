@@ -36,8 +36,8 @@ Casiano Rodríguez León
 * [GitHub](https://github.com/alu0100912005)
 
 ### Despliegue del libro
-* [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/chapter1.md)
-* [Despliegue del libro en gh-pages](https://alu0100912005.gitbooks.io/pasos-iniciales/content/)
+* [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/)
+* [Despliegue del libro en gh-pages]()
 
 ### Enlace del grupo
 [Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2)
