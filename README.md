@@ -29,7 +29,7 @@ Casiano Rodríguez León
 [Ángel Luis Morales Hernández](alu0100888157.github.io)
 * [GitHub](https://github.com/alu0100888157)
 
-[Alexandra Esplugas Sabina](alu0100762006.github.io)
+[Alexandra Esplugas Sabina](alu0100762006.github.io/alu0100762006.github.io)
 * [GitHub](https://github.com/alu0100762006)
 
 [Nicolangelo Famiglietti](alu0100912005.github.io)
