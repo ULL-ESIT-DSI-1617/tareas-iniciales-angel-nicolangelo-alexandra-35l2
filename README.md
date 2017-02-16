@@ -32,12 +32,12 @@ Casiano Rodríguez León
 [Alexandra Esplugas Sabina](alu0100762006.github.io/alu0100762006.github.io)
 * [GitHub](https://github.com/alu0100762006)
 
-[Nicolangelo Famiglietti](alu0100912005.github.io)
+[Nicolangelo Famiglietti](https://alu0100912005.github.io)
 * [GitHub](https://github.com/alu0100912005)
 
 ### Despliegue del libro
 * [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/)
-* [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-35l2/)
+* [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-alexandra-35l2/)
 
 ### Enlace del grupo
 [Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2)
