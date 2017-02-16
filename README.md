@@ -26,10 +26,10 @@ El libro sirve de auto-aprendizaje de GitBook y sus herramientas.
 Casiano Rodríguez León
 
 ### Autores
-[Ángel Luis Morales Hernández](alu0100888157.github.io)
+[Ángel Luis Morales Hernández](https://alu0100888157.github.io)
 * [GitHub](https://github.com/alu0100888157)
 
-[Alexandra Esplugas Sabina](alu0100762006.github.io/alu0100762006.github.io)
+[Alexandra Esplugas Sabina](https://alu0100762006.github.io)
 * [GitHub](https://github.com/alu0100762006)
 
 [Nicolangelo Famiglietti](https://alu0100912005.github.io)
