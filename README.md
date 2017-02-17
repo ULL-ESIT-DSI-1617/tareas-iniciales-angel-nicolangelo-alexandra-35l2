@@ -40,7 +40,7 @@ Casiano Rodríguez León
 * [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-alexandra-35l2/)
 
 ### Enlace del grupo
-[Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2)
+[Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-alexandra-35l2)
 
 
 
